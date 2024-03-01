@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupesh Raj</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" width="400px" src="![image](https://github.com/rupeshraj1012001/rupeshraj1012001/assets/129156258/2bce47e5-2e07-44a6-b9f3-ff81e5ef9187)
+<img align="right" width="400px" src="[![image](https://github.com/rupeshraj1012001/rupeshraj1012001/assets/129156258/2bce47e5-2e07-44a6-b9f3-ff81e5ef9187)](https://github.com/rupeshraj1012001/rupeshraj1012001/blob/main/giphy.gif?raw=true)
 ">
 
 - 🌱 I am currently enrolled in **MCA studies.**
