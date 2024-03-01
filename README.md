@@ -1,4 +1,4 @@
-![logo](https://github.com/rupeshraj1012001/rupeshraj1012001/blob/main/giphy.gif?raw=true)
+![logo](https://github.com/rupeshraj1012001/rupeshraj1012001/blob/main/S3oHv-G_RQmZzY1IxPsf9Q.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rupesh Raj</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
