@@ -1,6 +1,6 @@
 ![logo](https://github.com/rupeshraj1012001/rupeshraj1012001/blob/main/S3oHv-G_RQmZzY1IxPsf9Q.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rupesh Raj</h1>
-<h3 align="center">A passionate software developer from India currently pursuing my MCA studies. I love working with Java, Python, C, JavaScript, React, Spring Boot, and more.
+<h3 align="center">A passionate Software Engineer from India currently pursuing my MCA studies. I love working with Java, Python, C, JavaScript, React, Spring Boot,SQL, and more.
 </h3>
 
 - 🌱 I am currently enrolled in **MCA studies.**
