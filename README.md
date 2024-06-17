@@ -5,7 +5,7 @@
 
 - 🌱 I am currently enrolled in **MCA studies.**
 
-- 👨‍💻 My portfolio is available at [https://portfolio-of-rupesh-raj.netlify.app/](https://portfolio-of-rupesh-raj.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://rupeshraj2001.github.io/portfolio/](https://rupeshraj2001.github.io/portfolio/)
 
 - 💬 Ask me about **Java , Python , C , Javascript , React , Spring Boot , J2EE , SQL**
 
