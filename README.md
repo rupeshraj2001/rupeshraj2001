@@ -1,5 +1,8 @@
 ![logo](https://github.com/rupeshraj1012001/rupeshraj1012001/blob/main/S3oHv-G_RQmZzY1IxPsf9Q.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rupesh Raj</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;ML+%2F+Security+Enthusiast;Always+learning+new+things!">
+</p>
 <h3 align="center">A passionate Software Engineer from India currently pursuing my MCA studies. I love working with Java, Python, C, JavaScript, React, Spring Boot,SQL, and more.
 </h3>
 
